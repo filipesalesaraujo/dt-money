@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2022-07-29T19:37:44.505Z"
+    },
+    {
+      "description": "Site",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-08-27T22:08:36.613Z",
+      "id": 3
+    },
+    {
+      "description": "Carro",
+      "price": 100000,
+      "category": "Compra",
+      "type": "outcome",
+      "createdAt": "2022-08-27T22:40:23.791Z",
+      "id": 4
     }
   ]
 }
