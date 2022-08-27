@@ -1,5 +1,3 @@
-import {useContext} from "react";
-
 import {ArrowCircleDown, ArrowCircleUp, CurrencyDollar} from "phosphor-react";
 
 import {SummaryCard, SummaryContainer} from "./styles";
